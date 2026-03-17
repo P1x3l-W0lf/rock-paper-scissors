@@ -43,9 +43,9 @@ The game is built using HTML, CSS, and JavaScript, making it lightweight and acc
 
 ### 🌐 Link
 
-The game will be hosted online and can be played directly in your browser:
+The game iswill be hosted online and can be played directly in your browser:
 
-👉 link
+👉 https://p1x3l-w0lf.github.io/rock-paper-scissors/
 
 ### ▶️ Usage
 
